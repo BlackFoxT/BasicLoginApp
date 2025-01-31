@@ -1,5 +1,7 @@
 # Basic Spring Boot Login App
 
+`git clone https://github.com/BlackFoxT/BasicLoginApp`
+
 This is a basic login application built with **Spring Boot**, **Thymeleaf**, and **Spring Security**. It allows users to sign up, log in using an email instead of a username, and restricts access to authentication pages for logged-in users.
 
 ## Features
