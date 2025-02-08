@@ -67,7 +67,7 @@ The application will start at `http://localhost:8080`
 - **Restricted pages**: Logged-in users **cannot access** `/auth/login` and `/auth/signup`.
 - **Session-based authentication** with Spring Security.
 
-![Security Config](src/main/resources/images/security_config.png)
+![Security Config](src/main/screenshots/security_config.png)
 
 In this securityFilterChain configuration, access permissions to pages are defined.
 The /auth/login and /auth/signup pages are accessible only to unauthenticated (anonymous) users.
@@ -76,15 +76,15 @@ The logout process is handled via the /auth/logout URL.
 After the user logs out, the system invalidates the session, deletes the JSESSIONID cookie, and redirects the user to the / page. 
 This ensures users can safely log out.
 
-![Database](src/main/resources/images/database.png)
+![Database](src/main/screenshots/database.png)
 
 This is example structure for our database.
 
 ### Screenshots for the project
-![Main Page Before Login](src/main/resources/images/main_page_without_login.png)
+![Main Page Before Login](src/main/screenshots/main_page_without_login.png)
 
-![Signup Page](src/main/resources/images/signup_page.png)
+![Signup Page](src/main/screenshots/signup_page.png)
 
-![Login Page](src/main/resources/images/login_page.png)
+![Login Page](src/main/screenshots/login_page.png)
 
-![Main Page Before Login](src/main/resources/images/main_page_with_login.png)
+![Main Page Before Login](src/main/screenshots/main_page_with_login.png)
