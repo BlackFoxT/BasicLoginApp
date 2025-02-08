@@ -78,7 +78,7 @@ This ensures users can safely log out.
 
 ![Database](src/main/screenshots/database.png)
 
-This is example structure for our database.
+This is example structure for the database.
 
 ### Screenshots for the project
 ![Main Page Before Login](src/main/screenshots/main_page_without_login.png)
