@@ -32,7 +32,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 ```sh
 git clone https://github.com/BlackFoxT/BasicLoginApp
-cd your-repo-folder
+cd BasicLoginApp
 ```
 
 ### Configure Database
