@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/BlackFoxT/BasicLoginApp
 cd your-repo-folder
 ```
 
